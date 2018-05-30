@@ -1,0 +1,1 @@
+// The Pivot point of the Texture must be on TOP LEFT (not on center)
